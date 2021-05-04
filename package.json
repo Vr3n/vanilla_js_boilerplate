@@ -1,0 +1,27 @@
+{
+  "name": "Parcel_workflow",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vr3n/vanilla_js_boilerplate.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vr3n/vanilla_js_boilerplate/issues"
+  },
+  "homepage": "https://github.com/Vr3n/vanilla_js_boilerplate#readme",
+  "devDependencies": {
+    "@babel/core": "^7.14.0",
+    "@babel/plugin-transform-runtime": "^7.13.15",
+    "@babel/runtime-corejs2": "^7.14.0",
+    "parcel-bundler": "^1.12.5",
+    "sass": "^1.32.12"
+  }
+}
